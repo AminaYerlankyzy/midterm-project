@@ -1,0 +1,30 @@
+.links{
+    margin-left: 700px;
+}
+.nav-link:hover{
+    background-color:#092A69;
+    color: #fff;
+}
+.images{
+    padding: 15px;
+    margin-left: 250px;
+}
+.img2{
+    margin-left: 300px;
+}
+.images2{
+    padding: 45px;
+    margin-left: 500px;
+}
+.images3{
+    padding: 15px;
+    margin-left: 250px;
+}
+.img4{
+    margin-left: 300px;
+}
+.olga{
+    width: 300px;
+    font-family: 'Oswald', sans-serif;
+    style:bold;
+}

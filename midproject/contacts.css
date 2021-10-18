@@ -1,0 +1,13 @@
+.links{
+    margin-left: 700px;
+}
+.nav-link:hover{
+    background-color:#092A69;
+    color: #fff;
+}
+/* .iframe{
+    margin-left: 0px 15px 0px 40px;
+} */
+.map{
+    margin-left: 75px;
+}

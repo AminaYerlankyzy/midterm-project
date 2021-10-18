@@ -1,0 +1,16 @@
+.container{
+     background-color:#092A69; 
+     /* height: 200%;
+     width: 200%; */
+}
+.links{
+    margin-left: 700px;
+}
+.nav-item a:hover{
+    background-color:#092A69;
+    color: white;
+}
+.carousel{
+    justify-content: center;
+    padding-top: 30px;
+}
