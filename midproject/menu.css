@@ -5,3 +5,36 @@
     background-color:#092A69;
     color: #fff;
 }
+ /* .menu1{
+    margin-left: 55px;
+}  */
+/* .carousel4{
+    justify-content: center;
+    padding-top: 30px;
+} */
+.carousel{
+    margin-left: 200px;
+}
+
+@media (max-width:767px) {
+    .nav-item a:hover{
+        padding-right: 3cm;
+        } 
+        .links{
+            margin-left: 100px;
+            line-height: 7px;
+            display:inline;
+            display:flex;
+        }
+
+        .carousel{
+            margin-left: 0;
+            margin-top: 60px;
+        }
+        .carousel-item img{
+            width:100%;
+        }
+}
+
+
+

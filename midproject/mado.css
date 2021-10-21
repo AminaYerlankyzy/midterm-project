@@ -1,5 +1,6 @@
 .container{
      background-color:#092A69; 
+     box-shadow: 0 32px 45px 0 rgba(141, 101, 101, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
      /* height: 200%;
      width: 200%; */
 }
@@ -13,4 +14,51 @@
 .carousel{
     justify-content: center;
     padding-top: 30px;
+}
+.numbers{
+  text-align: center;
+  margin-top: 50px;
+  display:flex;
+  justify-content: space-around;
+}
+.numbers2{
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
+    margin-right: 50px;
+}
+.h3{
+    color:#D9BB73;
+    justify-content: center;
+    /* margin: 2px 10px 6px 10px; */
+}
+.p{
+    color:white;
+    font-size:18px;
+    /* margin: 2px 10px 6px 10px; */
+}
+.p2{
+    color:white;
+    /* margin: 4px 10px 6px 10px;  */
+}
+
+@media (max-width: 700px) {
+    .nav-item a:hover{
+    padding-right: 3cm;
+    } 
+    .links{
+        margin-left: 100px;
+        line-height: 7px;
+        display:inline;
+        display:flex;
+    }
+    
+}
+
+
+.dark-body{
+    background-color: #000;
+}
+.dark-container{
+    background-color: #000;
 }
